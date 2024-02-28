@@ -20,7 +20,7 @@ const displayPhones = phones => {
             <p class = "text-base text-[#706F6F]">${'There are many variations of passages of available, but the majority have suffered'}</p>
             <h2 class="text-xl font-bold text-center">$999</h2>
             <div class="card-actions justify-center">
-            <button class="border px-5 lg:px-7 py-2 bg-[#0D6EFD] text-white rounded-md lg:text-lg font-bold">Show Details</button>
+            <button class="border px-5 lg:px-7 py-2 bg-[#0D6EFD] text-white rounded-md lg:text-lg font-semibold">Show Details</button>
             </div>
         </div>
         `;
